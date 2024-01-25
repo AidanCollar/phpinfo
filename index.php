@@ -6,24 +6,25 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Aidan's Page!</title>
-    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" type="text/css" href="css/base.css">
 </head>
 <body>
 <header>
-    <nav>
-        <ul>
-            <li>
-                <a href="/">Homepage</a>
-            </li>
-            <li>
-                <a href="#">LoopDemo</a>
-            </li>
-            <li>
-                <a href="#">CountDown</a>
-            </li>
-        </ul>
-    </nav>
+<h1>This is a PAGE</h1>
 </header>
+<nav>
+    <ul>
+        <li>
+            <a href="/">Homepage</a>
+        </li>
+        <li>
+            <a href="#">LoopDemo</a>
+        </li>
+        <li>
+            <a href="#">CountDown</a>
+        </li>
+    </ul>
+</nav>
 <main>
     <img src="images/Monkey-with-Money.jpg" alt="MONKEY WITH MONEY">
     <p>
